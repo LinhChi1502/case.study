@@ -1,0 +1,41 @@
+body {
+    margin-top: 0;
+    margin-left: 200px;
+    cursor: url(../images/Hammer.cur),auto;
+    background: url("../images/bgr.png");
+    background-size: 100% 100%;
+}
+
+table {
+    margin-top: 0px;
+}
+
+td {
+    width: 200px;
+    height: 100px;
+}
+
+.dirt {
+    position: relative;
+    width: 250px;
+    height: 67px;
+}
+
+.mole {
+    position: relative;
+    width: 160px;
+    padding: 0px 20px 50px 50px;
+    top: 100px;
+}
+#showScore {
+    position: absolute;
+    left: 800px;
+    top: 200px;
+    font-size: xx-large;
+}
+#start {
+    font-size: xx-large;
+    position: absolute;
+    top: 150px;
+    left: 500px;
+}
